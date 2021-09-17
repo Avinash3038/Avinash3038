@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Avinash Kumar
+- 👀 I’m interested in Machine Learning & Artificial Intelligence.
+- 🌱 I’m currently learning BERT and Image Processing task.
+- 💞️ I’m looking to collaborate on BERT.
+- 🔭 My area of interest is in Computer Vision.
+- 💬 Ask me about Machine Learning or Deep Learning.
+- 🌱 I’m currently learning Applied Mathematics sideby.
+- 📫 Reach me:avinashkumar999@hotmail.com
