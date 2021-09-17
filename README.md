@@ -5,4 +5,4 @@
 - 🔭 My area of interest is in Computer Vision.
 - 💬 Ask me about Machine Learning or Deep Learning.
 - 🌱 I’m currently learning Applied Mathematics sideby.
-- 📫 Reach me:avinashkumar999@hotmail.com
+- 📫 Reach me : avinashkumar999@hotmail.com
