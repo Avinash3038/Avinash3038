@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Avinash Kumar
-- 👀 I’m interested in Machine Learning & Artificial Intelligence.
-- 🌱 I’m currently learning BERT and Image Processing task.
+- 👀 I’m interested in Machine Learning & Artificial Intelligence and Power BI Tool.
+- 🌱 I’m currently learning Power BI Reporting Tool, BERT and Image Processing task.
 - 💞️ I’m looking to collaborate on BERT.
-- 🔭 My area of interest is in Computer Vision.
+- 🔭 My area of interest is in Natural Language Processing.
 - 💬 Ask me about Machine Learning or Deep Learning.
-- 🌱 I’m currently learning Applied Mathematics sideby.
+- 🌱 I’m currently learning Applied Mathematics sideby & Power BI Reporting Tool.
 - 📫 Reach me : avinashkumar999@hotmail.com
